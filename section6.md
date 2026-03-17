@@ -1,0 +1,1 @@
+The main purpose ot the API batching , Caching is that it will not repeated call to the backend because it affect the performance when 5000 users will be call the same 5000 records and cost the CPU usage and the virtualization and lazy loading to load content only when it is needed
